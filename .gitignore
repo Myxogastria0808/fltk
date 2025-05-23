@@ -34,6 +34,10 @@ etc/FLTKConfig.cmake
 
 .vscode/
 
+# Nix
+
+/.direnv
+
 # /
 
 /build
